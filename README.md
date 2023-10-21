@@ -4,6 +4,6 @@ Hello, my name is Vilyana Bozhkova and i am a student at Baba Tonka High School 
 - 🔭 I’m currently researching at the HTML and CSS and also web design
 - 🌱 I’m currently learning the fundamentals of C#
 - 📫 How to reach me: vivalerieva@gmail.com
-- 😄 Pronouns: Programmer/She/Her/Hers
+
 
 
