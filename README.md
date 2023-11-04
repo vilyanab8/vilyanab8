@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Vilyana 
-![About me](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+<img align="right" alt="Coding" width ="400" src = "https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 
 Hello, my name is Vilyana Bozhkova and i am a student at Baba Tonka High School of Mathematics, majoring in software and hardware sciences. I am a beginner programmer with almost two years of experience. I am interested in C# and front-end development. Besides programming, I have an immense interest in music and volleyball.
 
