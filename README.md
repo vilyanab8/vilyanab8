@@ -10,4 +10,5 @@ Hello, my name is Vilyana Bozhkova and i am a student at Baba Tonka High School 
   <img src="https://profile-counter.glitch.me/vilyanab8/count.svg" />
 </p>
 
+![GitHub stars](https://img.shields.io/github/stars/vilyanab8/vilyanab8?style=social)
 
