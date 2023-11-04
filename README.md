@@ -12,5 +12,9 @@ Hello, my name is Vilyana Bozhkova and i am a student at Baba Tonka High School 
   <img src="https://profile-counter.glitch.me/vilyanab8/count.svg" />
 </p>
 
-![GitHub stars](https://img.shields.io/github/stars/vilyanab8/vilyanab8?style=social)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/profile.php?id=100050361976216&locale=bg_BG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/antonia.georgieva.50951" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_vilyana.b_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__a.georgieva__/" height="30" width="40" /></a>
+</p>
 
