@@ -5,5 +5,9 @@ Hello, my name is Vilyana Bozhkova and i am a student at Baba Tonka High School 
 - 🌱 I’m currently learning the fundamentals of C#
 - 📫 How to reach me: vivalerieva@gmail.com
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vilyanab8/count.svg" />
+</p>
 
 
